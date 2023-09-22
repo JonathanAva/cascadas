@@ -1,0 +1,30 @@
+.navbar {
+    background-color:#1294D3; 
+    padding: 15px 0; 
+  }
+  
+  
+  .navbar-brand {
+    color: #fff; 
+    font-size: 24px; 
+    text-decoration: none; 
+  }
+  
+  .navbar-brand img {
+    width: 50px; 
+    height: 50px; 
+    margin-right: 10px;
+  }
+  
+
+  .navbar-nav .nav-link {
+    color: #fff; 
+    font-size: 18px; 
+    margin-right: 20px; 
+  }
+  
+  .navbar-nav .nav-link:hover {
+    color: #ecf0f1; 
+  }
+  
+  
